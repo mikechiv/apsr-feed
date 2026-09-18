@@ -21,6 +21,6 @@ jobs:
         run: |
           git config user.name "feed-bot"
           git config user.email "actions@github.com"
-          git add feed.xml
+          git add apsr-feed.xml
           git diff --cached --quiet || git commit -m "Update feed $(date -u +%F)"
           git push
