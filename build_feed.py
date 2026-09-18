@@ -20,7 +20,7 @@ ISSN = "1537-5943"  # APSR online ISSN
 JOURNAL_NAME = "American Political Science Review"
 FEED_TITLE = f"{JOURNAL_NAME}"
 FEED_LINK = "https://www.cambridge.org/core/journals/american-political-science-review"
-OUTPUT = "feed.xml"
+OUTPUT = "apsr-feed.xml"
 
 BASE = f"https://api.crossref.org/journals/{ISSN}/works"
 UA = {"User-Agent": "apsr-feed/2.0 (mailto:you@example.com)"}
