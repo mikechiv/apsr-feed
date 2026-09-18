@@ -122,7 +122,7 @@ def rss_item(item, section, date):
         abstract = re.sub(r"</(?:[\w.-]+:)?p\s*>", " ", abstract)
         abstract = re.sub(r"<[^>]+>", "", abstract)
         abstract = " ".join(unescape(abstract).split())
-        desc_bits.append(escape(item["abstract"]))
+        desc_bits.append(abstract)
     return "\n".join([
         "<item>",
         f"<title>{title}</title>",
