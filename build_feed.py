@@ -10,6 +10,8 @@ Data source: CrossRef REST API. Stdlib only - no pip installs needed.
 import json
 import time
 import urllib.request
+import re
+from html import unescape
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from xml.sax.saxutils import escape
@@ -116,6 +118,10 @@ def rss_item(item, section, date):
     if authors:
         desc_bits.append(f"Authors: {authors}")
     if item.get("abstract"):
+        abstract = item["abstract"]
+        abstract = re.sub(r"</(?:[\w.-]+:)?p\s*>", " ", abstract)
+        abstract = re.sub(r"<[^>]+>", "", abstract)
+        abstract = " ".join(unescape(abstract).split())
         desc_bits.append(escape(item["abstract"]))
     return "\n".join([
         "<item>",
