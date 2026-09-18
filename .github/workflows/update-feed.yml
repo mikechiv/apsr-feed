@@ -1,4 +1,4 @@
-name: Update JPE ahead-of-print feed
+name: Update APSR FirstView feed
 
 on:
   schedule:
