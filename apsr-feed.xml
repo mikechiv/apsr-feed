@@ -4,7 +4,7 @@
 <title>American Political Science Review</title>
 <link>https://www.cambridge.org/core/journals/american-political-science-review</link>
 <description>APSR FirstView articles and the latest published issue (via CrossRef)</description>
-<lastBuildDate>Wed, 28 Oct 2026 12:35:49 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 22:27:12 +0000</lastBuildDate>
 <item>
 <title>Economic Self-Interest and Support for Redistribution: New Evidence Using Election Results Data</title>
 <link>https://doi.org/10.1017/s000305542610207x</link>
@@ -158,20 +158,20 @@
 <description>[FirstView]&lt;br/&gt;&lt;br/&gt;Authors: MARKUS PRIOR, TALBOT M. ANDREWS&lt;br/&gt;&lt;br/&gt;Abstract Timing of valence outcomes plays an important role in key theories of electoral choice, and different models place different emphases on past and future outcomes. Whereas sanctioning models consider only retrospective evaluations as an accountability mechanism, selection models hold that voters use past and proposed future conditions to infer the incumbent’s ability to deliver benefits. Drawing on four surveys run on six different samples, we demonstrate that voters prefer improving conditions in both retrospection and prospection. In retrospection, this pattern is difficult to distinguish from overweighting of temporally proximate conditions, which gave rise to the notion of “the myopic voter.” Distinguishing the two processes, we find that people do not ignore early datapoints and reward improving conditions (in both retrospection and prospection). This preference for improvement does not simply reflect an uncritical heuristic for upward trends. People are not universally myopic and many genuinely value improving aggregate conditions retrospectively and prospectively.</description>
 </item>
 <item>
-<title>Redistricting Reforms Reduce Gerrymandering by Constraining Partisan Actors</title>
-<link>https://doi.org/10.1017/s0003055426101610</link>
-<guid isPermaLink="false">10.1017/s0003055426101610</guid>
-<category>FirstView</category>
-<pubDate>Thu, 30 Jul 2026 08:04:59 +0000</pubDate>
-<description>[FirstView]&lt;br/&gt;&lt;br/&gt;Authors: CORY McCARTAN, CHRISTOPHER T. KENNY, TYLER SIMKO, EMMA EBOWE, MICHAEL Y. ZHAO, KOSUKE IMAI&lt;br/&gt;&lt;br/&gt;Political actors often manipulate redistricting plans to gain electoral advantages, a process known as gerrymandering. Several states have implemented institutional reforms to address this problem, such as establishing map-drawing commissions. Estimating the impact of these reforms is challenging because each state structures its processes and rules differently. We model redistricting as a sequential game whose equilibrium solution summarizes multistep institutional interactions as a univariate score. We argue that this score measures the leeway political actors have over the partisan lean of the final plan. Our differences-in-differences analysis demonstrates that reforms reduce partisan bias and increase competitiveness by constraining partisan actors. We perform a counterfactual policy analysis to estimate the effects of enacting recent reforms nationwide. Though commissions are likely to reduce bias, reforms that restrict partisan actors in multiple ways, such as removing veto points (Michigan), are more effective than commissions where parties retain some control (Ohio).</description>
-</item>
-<item>
 <title>A Democratic Theory of Labor Unions</title>
 <link>https://doi.org/10.1017/s0003055426101804</link>
 <guid isPermaLink="false">10.1017/s0003055426101804</guid>
 <category>FirstView</category>
 <pubDate>Thu, 30 Jul 2026 08:04:59 +0000</pubDate>
 <description>[FirstView]&lt;br/&gt;&lt;br/&gt;Authors: STEVEN KLEIN&lt;br/&gt;&lt;br/&gt;Recently, political theorists have been increasingly concerned with the implications of democratic values for work. This article contributes to these debates by examining the main vehicle through which workers, historically, have sought democracy at work: the labor union. The article defends a vision of economic democracy that arises from the practice of labor unions. It then emphasizes the distinctive features of labor unions that make them potential vehicles for democracy in other domains. Labor unions are particularly important means of advancing democratic values for three reasons: (1) their ability to appeal to the short- and mid-term self-interest of their members; (2) their anchor in the material reproduction of society; and (3) that they rely on attitudes of cooperation and solidarity among their members. Yet these three features also point to potential limitations of labor unions as laboratories of democracy.</description>
+</item>
+<item>
+<title>Redistricting Reforms Reduce Gerrymandering by Constraining Partisan Actors</title>
+<link>https://doi.org/10.1017/s0003055426101610</link>
+<guid isPermaLink="false">10.1017/s0003055426101610</guid>
+<category>FirstView</category>
+<pubDate>Thu, 30 Jul 2026 08:04:59 +0000</pubDate>
+<description>[FirstView]&lt;br/&gt;&lt;br/&gt;Authors: CORY McCARTAN, CHRISTOPHER T. KENNY, TYLER SIMKO, EMMA EBOWE, MICHAEL Y. ZHAO, KOSUKE IMAI&lt;br/&gt;&lt;br/&gt;Political actors often manipulate redistricting plans to gain electoral advantages, a process known as gerrymandering. Several states have implemented institutional reforms to address this problem, such as establishing map-drawing commissions. Estimating the impact of these reforms is challenging because each state structures its processes and rules differently. We model redistricting as a sequential game whose equilibrium solution summarizes multistep institutional interactions as a univariate score. We argue that this score measures the leeway political actors have over the partisan lean of the final plan. Our differences-in-differences analysis demonstrates that reforms reduce partisan bias and increase competitiveness by constraining partisan actors. We perform a counterfactual policy analysis to estimate the effects of enacting recent reforms nationwide. Though commissions are likely to reduce bias, reforms that restrict partisan actors in multiple ways, such as removing veto points (Michigan), are more effective than commissions where parties retain some control (Ohio).</description>
 </item>
 <item>
 <title>Contested Governance and Civilian Prosocial Behavior: Evidence from Lab-in-the-Field Experiments in India</title>
